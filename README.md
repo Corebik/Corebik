@@ -51,6 +51,6 @@
 
 <p align="left">
   <a href="https://github.com/Corebik">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Corebik&layout=compact&langs_count=8&theme=algolia&card_width=700vw"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Corebik&layout=compact&langs_count=8&theme=algolia&card_width=500px"/>
   </a>
 </p>
